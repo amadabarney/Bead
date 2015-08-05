@@ -1,0 +1,15 @@
+#Ignore files
+.DS_Store
+.tags
+.tags_sorted_by_file
+Library
+Temp
+obj
+*.pidb
+*.unityproj
+*.csproj
+*.sln
+*.userprefs
+/build/ReferenceViewer/data.dat
+build_info.txt
+build_info.txt.meta
